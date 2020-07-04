@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25a57b6f-789a-4543-b934-daf144c6de63" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1clX7CKDUbWZZHDlkdJXKU8HZ6z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/university/project" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Files\University\Семестр 2\TasksOfKharchenko\Polyedr\src\com\university\project\data" />
+      <recent name="C:\Files\University\Семестр 2\TasksOfKharchenko\Polyedr\src\com\university\project" />
+      <recent name="C:\Files\University\Семестр 2\TasksOfKharchenko\Polyedr\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Files\University\Семестр 2\TasksOfKharchenko\Polyedr\src\com\university\project\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PolyedrTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.university.project.Main" />
+      <module name="Polyedr" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolyedrTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.university.project.PolyedrTest" />
+      <module name="Polyedr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.university.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.PolyedrTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PolyedrTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25a57b6f-789a-4543-b934-daf144c6de63" name="Default Changelist" comment="" />
+      <created>1591103983457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591103983457</updated>
+      <workItem from="1591103984776" duration="2047000" />
+      <workItem from="1591283453458" duration="163000" />
+      <workItem from="1591916918082" duration="722000" />
+      <workItem from="1592686947862" duration="134000" />
+      <workItem from="1592687097672" duration="353000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="716" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591104303456">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="716" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1591104303456" />
+    <state x="740" y="246" key="FileChooserDialogImpl" timestamp="1592687307155">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="246" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592687307155" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1591920454447">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591920454447" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1591920454447">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591920454447" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1591920454447">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591920454447" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1591920454447">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591920454447" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1592687359708">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592687359708" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1592687098428">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592687098428" />
+  </component>
+</project>
